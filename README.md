@@ -4,6 +4,10 @@ INSTRUCTIONS:
 3) Select the provided icon.
 4) Open your shortcut while GTA V is running.
 
+Notes:
+-The exe is needed to be able to suspend the proccess from command-line.
+-The batchfile is just to automate the suspending and resuming.
+
 For updates and more: https://github.com/gyfen/
 
 -Gyfen
