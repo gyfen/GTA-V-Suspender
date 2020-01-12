@@ -7,9 +7,12 @@ INSTRUCTIONS:
 ----------------------------------------------------------------------------
 
 Notes:
+
 -The exe is needed to be able to suspend the proccess from command-line.
 
 -The batchfile is just to automate the suspending and resuming.
+
+----------------------------------------------------------------------------
 
 For updates and more: https://github.com/gyfen/
 
