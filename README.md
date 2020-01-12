@@ -1,6 +1,8 @@
 INSTRUCTIONS:
-1) Moved the shortcute named 'Suspend GTA V' to your desired location (desktop).
-2) Open it while GTA V is running.
+1) Make a shortcut of "Suspend GTAV.bat" and place it on your desktop.
+2) Rightclick on it, click properties and click change icon.
+3) Select the provided icon.
+4) Open your shortcut while GTA V is running.
 
 For updates and more: https://github.com/gyfen/
 
