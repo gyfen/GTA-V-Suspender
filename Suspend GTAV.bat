@@ -1,6 +1,5 @@
 @ECHO OFF
 start pssuspend64.exe GTA5.exe
 echo Succesfully suspended process.
-echo Waiting for 10 seconds...
-PING localhost -n 11 >NUL
+timeout /t 10 /nobreak
 start pssuspend64.exe -r GTA5.exe
