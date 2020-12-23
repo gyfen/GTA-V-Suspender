@@ -1,4 +1,8 @@
-INSTRUCTIONS:
+# GTA V Suspender
+
+**DEPRECIATED: New version: https://github.com/gyfen/GTA-V-Session-Sweeper/**
+
+## INSTRUCTIONS:
 1) Make a shortcut of "Suspend GTAV.bat" and place it on your desktop.
 2) Rightclick on it, click properties and click change icon.
 3) Select the provided icon.
